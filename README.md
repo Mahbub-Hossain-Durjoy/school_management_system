@@ -35,5 +35,3 @@ A simple *Console-based School Management System* built with *C#* and *Entity Fr
 - *LINQ* for data querying
 
 ---
-
-## 📂 Project Structure
